@@ -26,7 +26,7 @@ A curated collection of references, examples, and commentary on brutalist archit
 - **Relevance:** Visual and philosophical touchstone for brutalist aesthetic
 
 ### 4. **SOS Brutalism - International Database**
-- **URL:** sosbrutalism.org
+- **URL:** [sosbrutalism.org](https://www.sosbrutalism.org)
 - **Type:** Digital Archive / Documentation Project
 - **Description:** Global campaign documenting and preserving brutalist buildings. Extensive photo archive and building data.
 - **Coverage:** 1000+ buildings worldwide
@@ -36,25 +36,29 @@ A curated collection of references, examples, and commentary on brutalist archit
 
 ## Digital / Neo-Brutalism Web Sources
 
-### 5. **Brutalist Websites - brutalistwebsites.com**
+### 5. **Brutalist Websites**
+- **URL:** [brutalistwebsites.com](https://brutalistwebsites.com)
 - **Type:** Curated Gallery
 - **Description:** The definitive collection of brutalist web design. Hundreds of examples with minimal curation—raw, honest presentation.
 - **Notable Examples:** Personal portfolios, agency sites, art projects
 - **Relevance:** Direct inspiration for digital neo-brutalism; shows variety of interpretations
 
 ### 6. **Bloomberg.com Redesign (2017)**
+- **URL:** [bloomberg.com](https://www.bloomberg.com)
 - **Type:** Case Study / Production Website
 - **Description:** Major media site embracing brutalist typography and layout. Condensed headlines, tight grids, data-driven aesthetic.
 - **Key Features:** Franklin Gothic condensed type, black/white palette, dense information architecture
 - **Relevance:** Proof that neo-brutalism works at scale for content-heavy sites
 
 ### 7. **Balenciaga.com (2019-2021 era)**
+- **URL:** [balenciaga.com](https://www.balenciaga.com) *(design has since evolved)*
 - **Type:** Case Study / E-commerce
 - **Description:** Luxury fashion brand's brutalist phase. System fonts, stark product photography, anti-commercial presentation.
 - **Key Features:** Arial/Helvetica only, minimal navigation, high-contrast layouts
 - **Relevance:** Shows how brutalism communicates exclusivity and confidence
 
-### 8. **Hacker News (news.ycombinator.com)**
+### 8. **Hacker News**
+- **URL:** [news.ycombinator.com](https://news.ycombinator.com)
 - **Type:** Live Example / Community Site
 - **Description:** Accidentally brutalist tech forum. Pure HTML, no CSS polish, absolute functional clarity.
 - **Key Features:** Default browser styles, dense text, zero ornamentation
@@ -66,9 +70,10 @@ A curated collection of references, examples, and commentary on brutalist archit
 - **Key Features:** Thick borders, asymmetric grids, Aperçu font family, neon accents
 - **Relevance:** Showed editorial content can be both readable and visually aggressive
 
-### 10. **Craigslist (craigslist.org)**
+### 10. **Craigslist**
+- **URL:** [craigslist.org](https://www.craigslist.org)
 - **Type:** Live Example / Classifieds Platform
-- **Description:** The unintentional brutalist icon. Pure function, minimal styling, максимальная clarity.
+- **Description:** The unintentional brutalist icon. Pure function, minimal styling, maximum clarity.
 - **Key Features:** Blue hyperlinks, Times New Roman, tables, no images
 - **Relevance:** Proves that brutalist approach scales to millions of users
 
@@ -76,34 +81,36 @@ A curated collection of references, examples, and commentary on brutalist archit
 
 ## Design Commentary & Analysis
 
-### 11. **"Web Design is Dead" - Smashing Magazine (2017)**
+### 11. **Smashing Magazine - Design Trend Articles**
+- **URL:** [smashingmagazine.com](https://www.smashingmagazine.com)
 - **Type:** Article / Design Commentary
-- **URL:** smashingmagazine.com
-- **Description:** Essay exploring the rise of anti-design aesthetics including brutalism as reaction to homogeneous flat design.
+- **Description:** Various articles exploring the rise of anti-design aesthetics including brutalism as reaction to homogeneous flat design.
 - **Key Points:** Designer fatigue with iOS/Material conventions, desire for differentiation
 - **Relevance:** Explains *why* neo-brutalism emerged when it did
 
 ### 12. **Awwwards - Brutalism in Web Design Collection**
+- **URL:** [awwwards.com](https://www.awwwards.com)
 - **Type:** Curated Gallery / Articles
-- **URL:** awwwards.com
 - **Description:** Design award site's collection of brutalist work with jury commentary and developer interviews.
 - **Coverage:** Trend analysis, technical breakdowns, accessibility discussions
 - **Relevance:** Professional design community perspective on the movement
 
-### 13. **"Why Brutalism is Back" - 99designs (2018)**
+### 13. **99designs - Brutalism Design Trends**
+- **URL:** [99designs.com](https://99designs.com/blog/trends/brutalism-web-design/)
 - **Type:** Article / Design Trends
 - **Description:** Accessible overview of brutalism's return in branding and web. Includes practical tips.
 - **Key Points:** Anti-polish as brand voice, when to use/avoid, accessibility concerns
 - **Relevance:** Practical guide for implementing style in commercial work
 
-### 14. **A List Apart - "Accessibility and Brutalism"**
+### 14. **A List Apart - Web Design & Accessibility**
+- **URL:** [alistapart.com](https://alistapart.com)
 - **Type:** Article / Accessibility Analysis
 - **Description:** Critical examination of brutalist web design through accessibility lens. Challenges and solutions.
 - **Key Topics:** Contrast, keyboard navigation, screen reader considerations
 - **Relevance:** Essential reading for responsible implementation
 
 ### 15. **Typewolf - System Font Stack Gallery**
-- **URL:** typewolf.com/system-fonts
+- **URL:** [typewolf.com/system-fonts](https://www.typewolf.com/system-fonts)
 - **Type:** Typography Resource
 - **Description:** Documentation of system font stacks (San Francisco, Segoe UI, Roboto, etc.) used in brutalist design.
 - **Key Content:** CSS snippets, rendering comparisons, fallback strategies
@@ -114,32 +121,33 @@ A curated collection of references, examples, and commentary on brutalist archit
 ## Bonus Sources (16-20)
 
 ### 16. **Dribbble - "Neo-Brutalism" Tag**
-- **URL:** dribbble.com/tags/neo-brutalism
+- **URL:** [dribbble.com/tags/neo-brutalism](https://dribbble.com/tags/neo-brutalism)
 - **Type:** Design Portfolio Platform
 - **Description:** Designer explorations and UI concepts in neo-brutalist style
 - **Relevance:** See experimental approaches and emerging patterns
 
-### 17. **CSS-Tricks - "Creating Brutalist Web Design"**
+### 17. **CSS-Tricks - Web Design Tutorials**
+- **URL:** [css-tricks.com](https://css-tricks.com)
 - **Type:** Tutorial / Technical Guide
-- **Description:** Step-by-step guide to implementing brutalist aesthetic with modern CSS
+- **Description:** Step-by-step guides to implementing brutalist aesthetic with modern CSS
 - **Key Topics:** Border techniques, system fonts, grid layouts, minimal JS
 - **Relevance:** Practical implementation guide
 
 ### 18. **Behance - Brutalist Portfolio Projects**
-- **URL:** behance.net (search "brutalism")
+- **URL:** [behance.net](https://www.behance.net/search/projects?search=brutalism)
 - **Type:** Design Portfolio Platform
 - **Description:** Case studies of brutalist branding, packaging, and digital projects
 - **Relevance:** See how brutalism extends beyond web to full brand systems
 
 ### 19. **"Brutalist Web Design" by David Bryant Copeland**
-- **URL:** brutalist-web.design
+- **URL:** [brutalist-web.design](https://brutalist-web.design)
 - **Type:** Manifesto / Guidelines
 - **Description:** Articulates principles for building honest, accessible, performance-focused websites
 - **Key Principles:** Content is readable, functionality is obvious, design serves user
 - **Relevance:** Ethical framework for brutalist web development
 
 ### 20. **Reddit - r/brutalism**
-- **URL:** reddit.com/r/brutalism
+- **URL:** [reddit.com/r/brutalism](https://www.reddit.com/r/brutalism)
 - **Type:** Community / Discussion Forum
 - **Description:** Active community sharing architectural photography, design work, and discussion
 - **Coverage:** Architecture, web design, graphic design, culture
