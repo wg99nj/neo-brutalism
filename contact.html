@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Get in touch - Contact form for neo-brutalism project">
+    <title>CONTACT / Get In Touch</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header / Navigation -->
+    <header class="site-header">
+        <div class="container">
+            <h1 class="site-title"><a href="index.html" style="color: inherit; text-decoration: none;">BRUTALISM</a></h1>
+            <nav class="main-nav" aria-label="Main navigation">
+                <a href="index.html" class="nav-link">HOME</a>
+                <a href="collaboration.html" class="nav-link">COLLABORATION</a>
+                <a href="contact.html" class="nav-link" aria-current="page">CONTACT</a>
+                <a href="README.md" class="nav-link">DOCS</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h2 class="hero-title">GET IN<br>TOUCH</h2>
+            <p class="hero-subtitle">Questions, feedback, or collaboration inquiries welcome</p>
+            <div class="hero-meta">
+                <span class="meta-item">OPEN TO COLLABORATE</span>
+                <span class="meta-divider">|</span>
+                <span class="meta-item">HUMAN + AI</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form Section -->
+    <section class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h3 class="section-title">01 / CONTACT FORM</h3>
+            </div>
+            <div class="contact-content">
+                <div class="contact-form-wrapper">
+                    <form class="contact-form" action="#" method="POST" id="contactForm">
+                        <!-- Name Field -->
+                        <div class="form-group">
+                            <label for="name" class="form-label">NAME *</label>
+                            <input 
+                                type="text" 
+                                id="name" 
+                                name="name" 
+                                class="form-input" 
+                                required
+                                placeholder="YOUR NAME"
+                                aria-required="true"
+                            >
+                        </div>
+
+                        <!-- Email Field -->
+                        <div class="form-group">
+                            <label for="email" class="form-label">EMAIL *</label>
+                            <input 
+                                type="email" 
+                                id="email" 
+                                name="email" 
+                                class="form-input" 
+                                required
+                                placeholder="YOUR@EMAIL.COM"
+                                aria-required="true"
+                            >
+                        </div>
+
+                        <!-- Subject Field -->
+                        <div class="form-group">
+                            <label for="subject" class="form-label">SUBJECT *</label>
+                            <select id="subject" name="subject" class="form-select" required aria-required="true">
+                                <option value="">SELECT A SUBJECT</option>
+                                <option value="question">QUESTION ABOUT NEO-BRUTALISM</option>
+                                <option value="collaboration">COLLABORATION INQUIRY</option>
+                                <option value="feedback">FEEDBACK ON THE SITE</option>
+                                <option value="technical">TECHNICAL ISSUE</option>
+                                <option value="other">OTHER</option>
+                            </select>
+                        </div>
+
+                        <!-- Message Field -->
+                        <div class="form-group">
+                            <label for="message" class="form-label">MESSAGE *</label>
+                            <textarea 
+                                id="message" 
+                                name="message" 
+                                class="form-textarea" 
+                                rows="8" 
+                                required
+                                placeholder="YOUR MESSAGE HERE..."
+                                aria-required="true"
+                            ></textarea>
+                        </div>
+
+                        <!-- Robot Check -->
+                        <div class="form-group">
+                            <label class="form-checkbox-label">
+                                <input 
+                                    type="checkbox" 
+                                    id="not-robot" 
+                                    name="not-robot" 
+                                    class="form-checkbox" 
+                                    required
+                                    aria-required="true"
+                                >
+                                <span class="checkbox-text">I AM NOT A ROBOT *</span>
+                            </label>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="form-actions">
+                            <button type="submit" class="form-submit">
+                                SEND MESSAGE
+                            </button>
+                            <button type="reset" class="form-reset">
+                                CLEAR FORM
+                            </button>
+                        </div>
+
+                        <!-- Form Status Message -->
+                        <div id="formStatus" class="form-status" role="status" aria-live="polite"></div>
+                    </form>
+                </div>
+
+                <!-- Contact Info Sidebar -->
+                <aside class="contact-sidebar">
+                    <h4 class="sidebar-title">DIRECT CONTACT</h4>
+                    <div class="contact-info">
+                        <div class="info-block">
+                            <h5 class="info-label">GITHUB</h5>
+                            <a href="https://github.com/wg99nj" class="info-link" target="_blank" rel="noopener">
+                                github.com/wg99nj
+                            </a>
+                        </div>
+                        <div class="info-block">
+                            <h5 class="info-label">REPOSITORY</h5>
+                            <a href="https://github.com/wg99nj/neo-brutalism" class="info-link" target="_blank" rel="noopener">
+                                github.com/wg99nj/neo-brutalism
+                            </a>
+                        </div>
+                        <div class="info-block">
+                            <h5 class="info-label">RESPONSE TIME</h5>
+                            <p class="info-text">24-48 hours</p>
+                        </div>
+                    </div>
+
+                    <div class="sidebar-note">
+                        <h5 class="note-title">NOTE</h5>
+                        <p class="note-text">
+                            This is a demonstration contact form. In production, you would integrate with 
+                            a service like Formspree, Netlify Forms, or a custom backend.
+                        </p>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </section>
+
+    <!-- Alternative Contact Section -->
+    <section class="content-section accent-section">
+        <div class="container">
+            <div class="section-header">
+                <h3 class="section-title">02 / OTHER WAYS TO CONNECT</h3>
+            </div>
+            <div class="connect-grid">
+                <div class="connect-card">
+                    <h4 class="connect-title">OPEN AN ISSUE</h4>
+                    <p class="connect-text">
+                        Found a bug or have a suggestion? Open an issue on GitHub for technical discussions.
+                    </p>
+                    <a href="https://github.com/wg99nj/neo-brutalism/issues" class="connect-link" target="_blank" rel="noopener">
+                        GITHUB ISSUES →
+                    </a>
+                </div>
+                <div class="connect-card">
+                    <h4 class="connect-title">FORK & CONTRIBUTE</h4>
+                    <p class="connect-text">
+                        Want to improve the project? Fork the repository and submit a pull request.
+                    </p>
+                    <a href="https://github.com/wg99nj/neo-brutalism/fork" class="connect-link" target="_blank" rel="noopener">
+                        FORK PROJECT →
+                    </a>
+                </div>
+                <div class="connect-card">
+                    <h4 class="connect-title">SHARE YOUR WORK</h4>
+                    <p class="connect-text">
+                        Built something with neo-brutalism? Share it and inspire others.
+                    </p>
+                    <a href="https://brutalistwebsites.com" class="connect-link" target="_blank" rel="noopener">
+                        BRUTALIST WEBSITES →
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-main">
+                    <h3 class="footer-title">STAY IN TOUCH</h3>
+                    <p class="footer-text">
+                        This project demonstrates human-AI collaboration in web design. 
+                        All inquiries and feedback are welcome.
+                    </p>
+                </div>
+                <div class="footer-actions">
+                    <a href="index.html" class="cta-button">
+                        BACK TO HOME
+                    </a>
+                    <a href="collaboration.html" class="cta-button-secondary">
+                        OUR STORY
+                    </a>
+                </div>
+            </div>
+            <div class="footer-meta">
+                <p>© 2025 / Human + AI Partnership / Open for collaboration</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Simple Form Validation Script -->
+    <script>
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Get form status element
+            const statusEl = document.getElementById('formStatus');
+            
+            // Simulate form submission (replace with actual backend integration)
+            statusEl.textContent = 'PROCESSING...';
+            statusEl.className = 'form-status form-status-processing';
+            
+            setTimeout(() => {
+                // Simulate success
+                statusEl.textContent = '✓ MESSAGE SENT SUCCESSFULLY! We\'ll respond within 24-48 hours.';
+                statusEl.className = 'form-status form-status-success';
+                
+                // Reset form after 3 seconds
+                setTimeout(() => {
+                    this.reset();
+                    statusEl.textContent = '';
+                    statusEl.className = 'form-status';
+                }, 3000);
+            }, 1500);
+        });
+    </script>
+
+</body>
+</html>
