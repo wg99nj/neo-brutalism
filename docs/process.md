@@ -11,7 +11,7 @@ Complete documentation of the design and development process for this neo-brutal
 This section contains visual evidence of the development process, design decisions, and final results.
 
 #### 1. Performance & Quality Metrics
-![Lighthouse Scores](screenshots/Screenshot%202025-11-09%20111744.png)
+![Lighthouse Scores](screenshots/07-lighthouse-scores.png)
 *Perfect Lighthouse results: Performance 100, Accessibility 92, Best Practices 100, SEO 100*
 
 #### 2. Final Desktop Views
