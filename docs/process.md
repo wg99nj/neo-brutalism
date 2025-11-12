@@ -4,6 +4,36 @@ Complete documentation of the design and development process for this neo-brutal
 
 ---
 
+## Visual Documentation
+
+### Screenshots Showing Project Progression
+
+This section contains visual evidence of the development process, design decisions, and final results.
+
+#### 1. Performance & Quality Metrics
+![Lighthouse Scores](screenshots/Screenshot%202025-11-09%20111744.png)
+*Perfect Lighthouse results: Performance 100, Accessibility 92, Best Practices 100, SEO 100*
+
+#### 2. Final Desktop Views
+![Desktop Homepage](screenshots/Screenshot%202025-11-09%20143423.png)
+*The completed index.html showing neo-brutalist history content with bold typography and visible structure*
+
+![Collaboration Page](screenshots/Screenshot%202025-11-09%20143539.png)
+*Human-AI partnership story with contrasting blocks and clear role attribution*
+
+![Contact Page](screenshots/Screenshot%202025-11-09%20143758.png)
+*Contact form demonstrating brutalist form design with clear labels and borders*
+
+#### 3. Responsive Design Testing
+![Mobile View](screenshots/Screenshot%202025-11-09%20145412.png)
+*Mobile view showing responsive layout and touch-friendly navigation*
+
+---
+
+**Note:** All screenshots demonstrate the authentic neo-brutalist aesthetic: system fonts, high contrast, visible borders, and structural clarity.
+
+---
+
 ## Project Overview
 
 **Project Name:** Neo-Brutalism Design Example & Research  
